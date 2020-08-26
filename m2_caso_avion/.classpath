@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="m2_caso_avion/source"/>
+	<classpathentry kind="src" path="m2_caso_avion/test/source"/>
+	<classpathentry kind="lib" path="m2_caso_avion/test/lib/junit.jar"/>
+	<classpathentry kind="output" path="m2_caso_avion/classes"/>
+</classpath>

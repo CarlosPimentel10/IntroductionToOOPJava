@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="evaluar_m2_ejercicio_avion/source"/>
+	<classpathentry kind="src" path="evaluar_m2_ejercicio_avion/test/source"/>
+	<classpathentry kind="src" path="m1_caso_lineasTelefonicas/source"/>
+	<classpathentry kind="src" path="m1_caso_lineasTelefonicas/test/source"/>
+	<classpathentry kind="src" path="m1_ejercicio_elecciones/source"/>
+	<classpathentry kind="src" path="m1_ejercicio_elecciones/test/source"/>
+	<classpathentry kind="src" path="m2_caso_avion/m2_caso_avion/source"/>
+	<classpathentry kind="src" path="m2_caso_avion/m2_caso_avion/test/source"/>
+	<classpathentry kind="src" path="m2_caso_visorImagen/m2_caso_visorImagen/source"/>
+	<classpathentry kind="src" path="m2_caso_visorImagen/m2_caso_visorImagen/test/source"/>
+	<classpathentry kind="src" path="m2_caso_visorImagen/source"/>
+	<classpathentry kind="src" path="m2_caso_visorImagen/test/source"/>
+	<classpathentry kind="src" path="m2_ejercicio_avion/source"/>
+	<classpathentry kind="src" path="m2_ejercicio_avion/test/source"/>
+	<classpathentry kind="lib" path="Carros/Carros.jar"/>
+	<classpathentry kind="lib" path="evaluar_m2_ejercicio_avion/test/lib/junit.jar"/>
+	<classpathentry kind="lib" path="m1_caso_lineasTelefonicas/test/lib/junit.jar"/>
+	<classpathentry kind="lib" path="m1_ejercicio_elecciones/lib/jcommon-1.0.21.jar"/>
+	<classpathentry kind="lib" path="m1_ejercicio_elecciones/lib/jfreechart-1.0.17.jar"/>
+	<classpathentry kind="lib" path="m1_ejercicio_elecciones/test/lib/eleccionesTest.jar"/>
+	<classpathentry kind="lib" path="m1_ejercicio_elecciones/test/lib/junit.jar"/>
+	<classpathentry kind="lib" path="m2_caso_avion/m2_caso_avion/test/lib/junit.jar"/>
+	<classpathentry kind="lib" path="m2_caso_visorImagen/m2_caso_visorImagen/test/lib/junit.jar"/>
+	<classpathentry kind="lib" path="m2_caso_visorImagen/test/lib/junit.jar"/>
+	<classpathentry kind="lib" path="m2_ejercicio_avion/test/lib/junit.jar"/>
+	<classpathentry kind="lib" path="Triangulos/Triangulos.jar"/>
+	<classpathentry kind="output" path="evaluar_m2_ejercicio_avion/classes"/>
+</classpath>
